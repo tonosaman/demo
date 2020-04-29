@@ -1,7 +1,7 @@
-{"user": {"name":"冨士 ベク太郎", "id":"0"},
+{"user": {"name":"AAAAAAAAAAAAAA", "id":"0"},
           "dt" : "1974-07-09",
           "tasks": [{"title":"REST API", "id":1, "hour":1.5},
                     {"title":"Re:dash", "id":2, "hour":2.5},
                     {"title":"mattermost", "id":3, "hour":3.5},
-                    {"title":"通知BOT", "id":4, "hour":4.5},
-                    {"title":"通知mail", "id":5, "hour":5.5}]}
+                    {"title":"BOT", "id":4, "hour":4.5},
+                    {"title":"mail", "id":5, "hour":5.5}]}
